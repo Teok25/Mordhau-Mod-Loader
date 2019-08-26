@@ -1,0 +1,20 @@
+C:\Users\Jack McWatters\Documents\GitHub\Mordhau-Mod-Loader\Mordhau Mod Loader\MordhauModManager\bin\Debug\MordhauModManager.exe.config
+C:\Users\Jack McWatters\Documents\GitHub\Mordhau-Mod-Loader\Mordhau Mod Loader\MordhauModManager\bin\Debug\MordhauModManager.exe
+C:\Users\Jack McWatters\Documents\GitHub\Mordhau-Mod-Loader\Mordhau Mod Loader\MordhauModManager\bin\Debug\MordhauModManager.pdb
+C:\Users\Jack McWatters\Documents\GitHub\Mordhau-Mod-Loader\Mordhau Mod Loader\MordhauModManager\bin\Debug\DotNetZip.dll
+C:\Users\Jack McWatters\Documents\GitHub\Mordhau-Mod-Loader\Mordhau Mod Loader\MordhauModManager\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Jack McWatters\Documents\GitHub\Mordhau-Mod-Loader\Mordhau Mod Loader\MordhauModManager\bin\Debug\System.IO.Compression.dll
+C:\Users\Jack McWatters\Documents\GitHub\Mordhau-Mod-Loader\Mordhau Mod Loader\MordhauModManager\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\Jack McWatters\Documents\GitHub\Mordhau-Mod-Loader\Mordhau Mod Loader\MordhauModManager\bin\Debug\DotNetZip.pdb
+C:\Users\Jack McWatters\Documents\GitHub\Mordhau-Mod-Loader\Mordhau Mod Loader\MordhauModManager\bin\Debug\DotNetZip.xml
+C:\Users\Jack McWatters\Documents\GitHub\Mordhau-Mod-Loader\Mordhau Mod Loader\MordhauModManager\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Jack McWatters\Documents\GitHub\Mordhau-Mod-Loader\Mordhau Mod Loader\MordhauModManager\obj\Debug\Mordhau Mod Loader.csprojAssemblyReference.cache
+C:\Users\Jack McWatters\Documents\GitHub\Mordhau-Mod-Loader\Mordhau Mod Loader\MordhauModManager\obj\Debug\MordhauModManager.Form1.resources
+C:\Users\Jack McWatters\Documents\GitHub\Mordhau-Mod-Loader\Mordhau Mod Loader\MordhauModManager\obj\Debug\MordhauModManager.Form2.resources
+C:\Users\Jack McWatters\Documents\GitHub\Mordhau-Mod-Loader\Mordhau Mod Loader\MordhauModManager\obj\Debug\MordhauModManager.Form3.resources
+C:\Users\Jack McWatters\Documents\GitHub\Mordhau-Mod-Loader\Mordhau Mod Loader\MordhauModManager\obj\Debug\MordhauModManager.Properties.Resources.resources
+C:\Users\Jack McWatters\Documents\GitHub\Mordhau-Mod-Loader\Mordhau Mod Loader\MordhauModManager\obj\Debug\Mordhau Mod Loader.csproj.GenerateResource.cache
+C:\Users\Jack McWatters\Documents\GitHub\Mordhau-Mod-Loader\Mordhau Mod Loader\MordhauModManager\obj\Debug\Mordhau Mod Loader.csproj.CoreCompileInputs.cache
+C:\Users\Jack McWatters\Documents\GitHub\Mordhau-Mod-Loader\Mordhau Mod Loader\MordhauModManager\obj\Debug\Mordhau Mod Loader.csproj.CopyComplete
+C:\Users\Jack McWatters\Documents\GitHub\Mordhau-Mod-Loader\Mordhau Mod Loader\MordhauModManager\obj\Debug\MordhauModManager.exe
+C:\Users\Jack McWatters\Documents\GitHub\Mordhau-Mod-Loader\Mordhau Mod Loader\MordhauModManager\obj\Debug\MordhauModManager.pdb

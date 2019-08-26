@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<about>
+	<name>TestMod</name> <!-- Name used in mod loader -->
+	<author>Teok</author> <!-- your credentials, shown in the description box -->
+	<version>0.4</version> <!-- version of your mod, shown in description box for ease of updating mods -->
+	<description>This here is an example mod file, used to playtest the mod loader.</description> <!-- description of your mod shown in description box -->
+	<releaseDate>00/00/0000</releaseDate> <!--release date of mod-->
+	<!--Mod Folders and Target Directories, first 2 are examples and can be edited / removed if needed-->
+	<modDetails FolderName="Folder Name Here (SkeletalMesh, etc)" TargetDirectory="Mordhau/Content/..."/>
+	<modDetails FolderName="Folder Name Here (Materials, etc)" TargetDirectory="Mordhau/Content/..."/>
+</about>

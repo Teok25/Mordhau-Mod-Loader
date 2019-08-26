@@ -1,0 +1,1 @@
+navigate to C:\Program Files (x86)\Steam\steamapps\common\Mordhau\Mordhau\Content\Mordhau\Audio\Raw\Weapons\Wooshes\BladedMedium and simply drop the files in the sound folder in. 

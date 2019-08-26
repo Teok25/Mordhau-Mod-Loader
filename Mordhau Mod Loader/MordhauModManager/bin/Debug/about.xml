@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<about>
+	<name>Mod Name Here</name> <!-- Name used in mod loader -->
+	<author>Name Here</author> <!-- your credentials, shown in the description box -->
+	<version>0.0</version> <!-- version of your mod, shown in description box for ease of updating mods -->
+	<description>Mod Description Here</description> <!-- description of your mod shown in description box -->
+	
+	<!--Mod Folders and Target Directories, first 2 are examples and can be edited / removed if needed-->
+	<modDetails FolderName="Folder Name Here (SkeletalMesh, etc)" TargetDirectory="Mordhau/Content/..."/>
+	<modDetails FolderName="Folder Name Here (Materials, etc)" TargetDirectory="Mordhau/Content/..."/>
+</about>
